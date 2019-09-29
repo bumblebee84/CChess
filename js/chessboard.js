@@ -169,7 +169,6 @@ function init() {
         chessPieces[i].style.position = 'absolute';
         chessPieces[i].style.left = initPiecesPosition[i].l + 'px';
         chessPieces[i].style.top = initPiecesPosition[i].t + 'px';
-        // chessPieces[i].style.backgroundPosition = initPiecesPosition[i].x + ' ' + initPiecesPosition[i].y;
-        chessPieces[i].style.backgroundPosition = '0 -130px';
+        chessPieces[i].style.backgroundPosition = initPiecesPosition[i].x + 'px' + ' ' + initPiecesPosition[i].y + 'px';
     }
 }

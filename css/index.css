@@ -26,6 +26,294 @@ button{
     background: url("../img/green.png") no-repeat;
 }
 
+.green.lche{
+    width: 60px;
+    height: 60px;
+    background-position: -188px -121px;
+    position: absolute;
+    top: 14px;
+    left: 10px;
+}
+
+.green.lma{
+    width: 60px;
+    height: 60px;
+    background-position: -1px -187px;
+    position: absolute;
+    top: 14px;
+    left: 70px;
+}
+
+.green.lxiang{
+    width: 60px;
+    height: 60px;
+    background-position: -128px -186px;
+    position: absolute;
+    top: 14px;
+    left: 130px;
+}
+
+.green.lshi{
+    width: 60px;
+    height: 60px;
+    background-position: -2px -62px;
+    position: absolute;
+    top: 14px;
+    left: 190px;
+}
+
+.green.jiang{
+    width: 60px;
+    height: 60px;
+    background-position: -128px -122px;
+    position: absolute;
+    top: 14px;
+    left: 250px;
+}
+
+.green.rshi{
+    width: 60px;
+    height: 60px;
+    background-position: -2px -62px;
+    position: absolute;
+    top: 14px;
+    left: 310px;
+}
+
+.green.rxiang{
+    width: 60px;
+    height: 60px;
+    background-position: -127px -186px;
+    position: absolute;
+    top: 14px;
+    left: 370px;
+}
+
+.green.rma{
+    width: 60px;
+    height: 60px;
+    background-position: 0px -187px;
+    position: absolute;
+    top: 14px;
+    left: 430px;
+}
+
+.green.rche{
+    width: 60px;
+    height: 60px;
+    background-position: -188px -121px;
+    position: absolute;
+    top: 14px;
+    left: 490px;
+}
+
+.green.lpao{
+    width: 60px;
+    height: 60px;
+    background-position: -7px 0px;
+    position: absolute;
+    top: 134px;
+    left: 70px;
+}
+
+.green.rpao{
+    width: 60px;
+    height: 60px;
+    background-position: -7px 0px;
+    position: absolute;
+    top: 134px;
+    left: 430px;
+}
+
+.green.zu1{
+    width: 60px;
+    height: 60px;
+    background-position: -4px -123px;
+    position: absolute;
+    top: 194px;
+    left: 10px;
+}
+
+.green.zu2{
+    width: 60px;
+    height: 60px;
+    background-position: -4px -123px;
+    position: absolute;
+    top: 194px;
+    left: 130px;
+}
+
+.green.zu3{
+    width: 60px;
+    height: 60px;
+    background-position: -4px -123px;
+    position: absolute;
+    top: 194px;
+    left: 250px;
+}
+
+.green.zu4{
+    width: 60px;
+    height: 60px;
+    background-position: -4px -123px;
+    position: absolute;
+    top: 194px;
+    left: 370px;
+}
+
+.green.zu5{
+    width: 60px;
+    height: 60px;
+    background-position: -4px -123px;
+    position: absolute;
+    top: 194px;
+    left: 490px;
+}
+
 .red{
     background: url("../img/red.png") no-repeat;
+}
+
+.red.lche{
+    width: 60px;
+    height: 60px;
+    background-position: -6px -7px;
+    position: absolute;
+    top: 554px;
+    left: 10px;
+}
+
+.red.lma{
+    width: 60px;
+    height: 60px;
+    background-position: -129px -188px;
+    position: absolute;
+    top: 554px;
+    left: 70px;
+}
+
+.red.lxiang{
+    width: 60px;
+    height: 60px;
+    background-position: -192px -192px;
+    position: absolute;
+    top: 554px;
+    left: 130px;
+}
+
+.red.lshi{
+    width: 60px;
+    height: 60px;
+    background-position: -7px -68px;
+    position: absolute;
+    top: 554px;
+    left: 190px;
+}
+
+.red.shuai{
+    width: 60px;
+    height: 60px;
+    background-position: -65px -192px;
+    position: absolute;
+    top: 554px;
+    left: 250px;
+}
+
+.red.rshi{
+    width: 60px;
+    height: 60px;
+    background-position: -7px -68px;
+    position: absolute;
+    top: 554px;
+    left: 310px;
+}
+
+.red.rxiang{
+    width: 60px;
+    height: 60px;
+    background-position: -192px -192px;
+    position: absolute;
+    top: 554px;
+    left: 370px;
+}
+
+.red.rma{
+    width: 60px;
+    height: 60px;
+    background-position: -129px -188px;
+    position: absolute;
+    top: 554px;
+    left: 430px;
+}
+
+.red.rche{
+    width: 60px;
+    height: 60px;
+    background-position: -6px -7px;
+    position: absolute;
+    top: 554px;
+    left: 490px;
+}
+
+.red.lpao{
+    width: 60px;
+    height: 60px;
+    background-position: -68px -4px;
+    position: absolute;
+    top: 434px;
+    left: 70px;
+}
+
+.red.rpao{
+    width: 60px;
+    height: 60px;
+    background-position: -68px -4px;
+    position: absolute;
+    top: 434px;
+    left: 430px;
+}
+
+.red.bing1{
+    width: 60px;
+    height: 60px;
+    background-position: 0px -130px;
+    position: absolute;
+    top: 374px;
+    left: 10px;
+}
+
+.red.bing2{
+    width: 60px;
+    height: 60px;
+    background-position: 0px -130px;
+    position: absolute;
+    top: 374px;
+    left: 130px;
+}
+
+.red.bing3{
+    width: 60px;
+    height: 60px;
+    background-position: 0px -130px;
+    position: absolute;
+    top: 374px;
+    left: 250px;
+}
+
+.red.bing4{
+    width: 60px;
+    height: 60px;
+    background-position: 0px -130px;
+    position: absolute;
+    top: 374px;
+    left: 370px;
+}
+
+.red.bing5{
+    width: 60px;
+    height: 60px;
+    background-position: 0px -130px;
+    position: absolute;
+    top: 374px;
+    left: 490px;
 }
