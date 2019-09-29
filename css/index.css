@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.chessboard{
+    background: url("../img/chessboard.jpeg") no-repeat;
+    width: 559px;
+    height: 628px;
+    margin-top: 20px;
+    position: relative;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background-color: #232323;
+    color: white;
+    font-size: 20px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.green{
+    background: url("../img/green.png") no-repeat;
+}
+
+.red{
+    background: url("../img/red.png") no-repeat;
+}
